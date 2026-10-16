@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	cout << "abeeha" << endl;
+	cout << "l1f26bscs0852";
+
+
+	return 0;
+	
+}
